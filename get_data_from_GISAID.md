@@ -10,6 +10,6 @@
 
 3. Choose "EpiCoV" -> "Downloads" -> "spikeprot\*" to download up-to-date **Spike Protein** sequences.
 
-![image-20250303212339354](media\gisaid3.png)
+<img src="media\gisaid3.png" alt="image-20250303212022371" style="zoom:50%;" />
 
 For other downloads, "allprot\*" is for full protein sequences, and "spikenuc\*" is for spike nucleotide sequences.
